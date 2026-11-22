@@ -23,3 +23,7 @@ lightning_logs/*
 **/test**
 
 !.gitkeep
+
+# pansori
+data_whisper/
+wandb/
