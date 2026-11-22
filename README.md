@@ -8,7 +8,7 @@ fine-tuning of SOFA used by the DiffSinger pansori project
 The checkpoint currently in use:
 
 ```
-/home/sangheon/Desktop/SOFA/ckpt/korean_pansori_hyb/best/6000-7.1941.ckpt
+~/Desktop/SOFA/ckpt/korean_pansori_hyb/best/6000-7.1941.ckpt
 ```
 
 It produced `phones_hyb2.jsonl`, the labels behind the hyb2 model that the demo and the
